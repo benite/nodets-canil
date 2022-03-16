@@ -103,4 +103,6 @@ dist
 # TernJS port file
 .tern-port
 
-.passo-a-passo.txt
+*.txt
+*.sql
+/nbproject/private/

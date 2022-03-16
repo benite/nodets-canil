@@ -21,7 +21,7 @@ server.use(mainRoutes);
 
 // página não encontrada
 server.use((req, res) => {
-	res.send("Página não encontada");
+	res.render("pages/404");
 });
 
 // rodar o servidor (a linha abaixo deve ser a última deste módulo)

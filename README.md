@@ -6,7 +6,7 @@ Projeto feito no módulo do curso Node + Typescript
 
 `npm i -g nodemon typescript ts-node`
 
-### Instação
+### Instalação
 
 `npm install`
 
